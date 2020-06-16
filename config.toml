@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://juxsta.github.io/AnneCoding/"
 languageCode = "en-us"
 title = "Anne's Awesome Coding Guide"
 theme = "ananke"
